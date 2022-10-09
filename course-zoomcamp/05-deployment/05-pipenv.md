@@ -5,6 +5,24 @@
 [Slides](https://www.slideshare.net/AlexeyGrigorev/ml-zoomcamp-5-model-deployment)
 
 
+TimeStamps:
+[0:10](https://www.youtube.com/watch?v=BMXh8JGROHM&t=10s) - Dependency and Env management ( bsacially how pip works )
+
+[1:42](https://www.youtube.com/watch?v=BMXh8JGROHM&t=102s) - Scenario of conflict with versions
+
+[3:42](https://www.youtube.com/watch?v=BMXh8JGROHM&t=222s) - How virtual Environment solves the issue ?
+
+[5:49](https://www.youtube.com/watch?v=BMXh8JGROHM&t=349s) - Various Virtual envs you can use
+
+[7:00](https://www.youtube.com/watch?v=BMXh8JGROHM&t=420s) - Installing Pipenv
+
+[7:25](https://www.youtube.com/watch?v=BMXh8JGROHM&t=445s) - Installing libraries with Pipenv
+
+[8:10](https://www.youtube.com/watch?v=BMXh8JGROHM&t=490s) - Explaning the Pipfile and Pipfile.lock files created by Pipenv
+
+[13:02](https://www.youtube.com/watch?v=BMXh8JGROHM&t=782s) - Running  things pipenv
+
+
 ## Notes
 In this session we're going to make virtual environment for our project. So Let's start this session to get to know what is a virtual environment and how to make it.
 - Every time we're running a file from a directory we're using the executive files from a global directory. For example when we install python on our machine the executable files that are able to run our codes will go to somewhere like _/home/username/python/bin/_ for example the pip command may go to _/home/username/python/bin/pip_.
