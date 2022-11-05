@@ -1,5 +1,9 @@
 ## Homework
 
+> **Solution**:
+> * [Notebook](homework_4.ipynb)
+> * [Video](https://youtu.be/82TYlOvKwfk)
+
 > Note: sometimes your answer doesn't match one of the options exactly. That's fine. 
 Select the option that's closest to your solution.
 
